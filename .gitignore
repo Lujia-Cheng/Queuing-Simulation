@@ -1,0 +1,4 @@
+.venv
+.vscode
+figure/*
+simulated_data/*
